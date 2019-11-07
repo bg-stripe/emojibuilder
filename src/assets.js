@@ -14,6 +14,24 @@ const rawAssets = [
     position: 0,
     adjective: "tomato"
   },
+  {
+    name: "face_tomato_fb",
+    base: "face",
+    position: 0,
+    adjective: "tomato_fb"
+  },
+  {
+    name: "face_tomato_wa",
+    base: "face",
+    position: 0,
+    adjective: "tomato_wa"
+  },
+  {
+    name: "face_tomato_gg",
+    base: "face",
+    position: 0,
+    adjective: "tomato_gg"
+  },
 
   // { name: 'acc_test' },
 
