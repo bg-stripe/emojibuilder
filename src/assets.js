@@ -78,6 +78,7 @@ const rawAssets = [
 
   { name: "eye_star", modifier: "star eye" },
   { name: "eye_heart", modifier: "heart eye" },
+  { name: "eye_tomato", modifier: "tomato eye" },
 
   // Mouths
 
@@ -114,6 +115,7 @@ const rawAssets = [
   { name: "mouth_nerd", adjective: "nerdy" },
   { name: "mouth_drooling", adjective: "drooling" },
   { name: "mouth_tongue_sticking_out", modifier: "tongue sticking out" },
+  { name: "mouth_tomato_entering", modifier: "tomato eating" },
   { name: "mouth_skewed_with_tongue", modifier: "tongue sticking out" },
   { name: "mouth_tongue_hanging_out", modifier: "tongue hanging out" },
   { name: "mouth_money", modifier: "money mouth" },
@@ -150,6 +152,7 @@ const rawAssets = [
   { name: "acc_monocle", modifier: "monocle" },
 
   { name: "acc_blowing_heart", modifier: "heart" },
+  { name: "acc_tomato", modifier: "tomato" },
   { name: "acc_steam", modifier: "steam from nose" },
   { name: "acc_halo", modifier: "halo" },
   { name: "acc_sleeping", adjective: "sleeping" },
